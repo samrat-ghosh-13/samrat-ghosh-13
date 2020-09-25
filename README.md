@@ -11,9 +11,7 @@ Tech Stack:
   - Git (Github, Bitbucket)
   - Jest
   - HTML5
-  - CSS3 (CSS Grid, CSS Flexbox)
-  - Bootstrap 4 
-  - SASS (scss) 
+  - CSS3 (CSS Grid, CSS Flexbox), Bootstrap 4, SCSS (SASS), Bulma 
   - Angular 2+
 
 Workflow: 
@@ -21,6 +19,6 @@ Workflow:
   - Responsive Design
   - Cross Browser Testing & Debugging
   - Cross-Functional Teams
-  - Agile Development 
+  - Agile/Kanban Development 
   
   Linkedin Profile: https://www.linkedin.com/in/samratat/
