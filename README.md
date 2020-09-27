@@ -4,15 +4,13 @@
 I also write tech articles on Medium (https://medium.com/@samratat) and Hacker-noon (https://hackernoon.com/@samratat) where I talk about web development frameworks, libraries, strategies, work hacks that I've learned from my own experience and reading them online (My articles have a total of 2k + views)
 
 Tech Stack: 
-  - React 
-  - Vue 
-  - JavaScript (ES6)
+  - Vue, React, Angular
+  - JavaScript (ES6+)
   - Storybook for Design System (React, Vue)
-  - Git (Github, Bitbucket)
+  - Git (Github, Bitbucket), Github Actions
   - Jest
-  - HTML5
-  - CSS3 (CSS Grid, CSS Flexbox), Bootstrap 4, SCSS (SASS), Bulma 
-  - Angular 2+
+  - HTML5 & CSS3 (CSS Grid, CSS Flexbox), Bootstrap 4, SCSS (SASS), Bulma 
+  - JAM Stack Deployment using Vercel & Netlify, Firebase Hosting
 
 Workflow: 
   - Mobile/Desktop First
