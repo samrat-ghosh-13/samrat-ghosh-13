@@ -11,6 +11,7 @@ Tech Stack:
   - JAM Stack Deployment using Vercel & Netlify, Firebase Hosting
   - Git (Github, Bitbucket), Github Actions
   - Jest
+  - Figma (User Interface Design)
 
 Workflow: 
   - Mobile/Desktop First
