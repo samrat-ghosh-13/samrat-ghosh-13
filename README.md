@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Samrat. 
 
-I work as a Software Engineer - Web Development in an Engineering setting at Maersk Digital where Agile Methodologies are being used. Web application software development and software design fascinate me.
+I work as a Software Engineer - Web Development in an Engineering setting at A.P Moller Maersk Technology where Agile Methodologies are being used. Web application software development and software design fascinate me.
 
 For almost four years, I've been focused on front end development. To deliver product functionality on time, I used React & Vue.js. For React, JavaScript, HTML5, & CSS, I also have LinkedIn Ability Evaluation badge.
 
