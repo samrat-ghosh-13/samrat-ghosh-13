@@ -2,7 +2,7 @@
 
 I work as a Software Engineer - Web Development in an Engineering setting at A.P Moller Maersk Technology. Web application software development and software design fascinate me.
 
-For almost four years, I've been focused on front end development. To deliver product functionality on time, I used React & Vue.js. 
+For almost four years, I've focused on front end development. To deliver product functionality on time, I used React & Vue.js. 
 
 - React, JavaScript, HTML5, & CSS: I have LinkedIn Ability Evaluation badge.
 
