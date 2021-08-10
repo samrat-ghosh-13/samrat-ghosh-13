@@ -1,14 +1,15 @@
 ### Hi there 👋, I'm Samrat. 
 
-I work as a Software Engineer - Web Development in an Engineering setting at A.P Moller Maersk Technology. Web application software development and software design fascinate me.
+I work as a Software Engineer II at A.P Moller Maersk Technology. Web Application Development and Design fascinates me. For almost four years, I've focused on front end development to deliver product functionality on time, I used React & Vue.js.
 
-For almost four years, I've focused on front end development. To deliver product functionality on time, I used React & Vue.js. 
+- For React, JavaScript, HTML5, & CSS, I have LinkedIn Ability Evaluation badge.
 
-- React, JavaScript, HTML5, & CSS: I have LinkedIn Ability Evaluation badge.
+GitHub - https://github.com/samrat-ghosh-13
 
 Tech Stack:
 - Vue, React, Angular
 - JavaScript (ES6+)
+- Vuex, Redux
 - Storybook for Design System (React, Vue)
 - Git (Github, Bitbucket), Github Actions
 - Jest
@@ -17,6 +18,7 @@ Tech Stack:
 - Figma (User Interface Design)
 
 Workflow:
+- Progressive Web Application
 - Mobile/Desktop First
 - Responsive Design
 - Cross Browser Testing & Debugging
