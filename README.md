@@ -11,7 +11,7 @@ Tech Stack:
 - JavaScript (ES6+)
 - Vuex, Redux
 - Storybook for Design System (React, Vue)
-- Git (Github, Bitbucket), Github Actions
+- Git, Github Actions
 - Jest
 - HTML5 & CSS3 (CSS Grid, CSS Flexbox), Bootstrap 4, SCSS (SASS)
 - JAM Stack Deployment using Vercel & Netlify, Firebase Hosting
