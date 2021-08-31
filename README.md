@@ -12,7 +12,7 @@ Tech Stack:
 - Vuex, Redux
 - Storybook for Design System (React, Vue)
 - Git, Github Actions
-- Jest
+- Jest, Cypress
 - HTML5 & CSS3 (CSS Grid, CSS Flexbox), Bootstrap 4, SCSS (SASS)
 - JAM Stack Deployment using Vercel & Netlify, Firebase Hosting
 - Figma (User Interface Design)
