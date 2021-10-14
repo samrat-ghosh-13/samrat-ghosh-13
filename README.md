@@ -7,7 +7,7 @@ I work as a Software Engineer II at A.P Moller Maersk Technology. Web Applicatio
 GitHub - https://github.com/samrat-ghosh-13
 
 Tech Stack:
-- Vue, React, Angular
+- Vue, React
 - JavaScript (ES6+)
 - Vuex, Redux
 - Storybook for Design System (React, Vue)
