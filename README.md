@@ -4,11 +4,9 @@ I work as a Senior Consultant at Deloitte Digital. Web Application Development a
 
 - For React, JavaScript, HTML5, & CSS, I have LinkedIn Ability Evaluation badge.
 
-GitHub - https://github.com/samrat-ghosh-13
-
 Tech Stack:
 - Vue, React
-- JavaScript (ES6+)
+- JavaScript (ES6+), Typescript
 - Vuex, Redux
 - Storybook for Design System (React, Vue)
 - Git, Github Actions
