@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Samrat. 
 
-I work as a Senior Consultant at Deloitte Digital. Web Application Development and Design fascinates me. For almost four years, I've focused on front end development to deliver product functionality on time, I used React & Vue.js.
-
-- For React, JavaScript, HTML5, & CSS, I have LinkedIn Ability Evaluation badge.
+I work as a Senior Consultant at Deloitte Digital. Web Application Development and Design fascinates me. For five years, I've focused on front end development to deliver product functionality on time.
 
 Tech Stack:
 - Vue, React
