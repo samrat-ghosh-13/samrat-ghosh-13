@@ -3,13 +3,13 @@
 I work as a Senior Consultant at Deloitte Digital. Web Application Development and Design fascinates me. For five years, I've focused on front end development to deliver product functionality on time.
 
 Tech Stack:
-- Vue, React
+- React, Vue
 - JavaScript (ES6+), Typescript
-- Vuex, Redux
+- Redux, Vuex
 - Storybook for Design System (React, Vue)
 - Git, Github Actions
 - Jest, Cypress
-- HTML5 & CSS3 (CSS Grid, CSS Flexbox), Bootstrap 4, SCSS (SASS)
+- HTML5 & CSS3 (Grid, Flexbox), Bootstrap 4, SCSS (SASS), Styled Components, Emotion
 - JAM Stack Deployment using Vercel & Netlify, Firebase Hosting
 - Figma (User Interface Design)
 
