@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Samrat. 
 
-I work as a Senior Consultant at Deloitte Digital. Web Application Development and Design fascinates me. For five years, I've focused on front end development to deliver product functionality on time.
+I work as a Senior Consultant at Deloitte Digital. I love Web Application Development.
 
-Tech Stack:
+I have worked with the following technologies:
 - React, Vue
 - JavaScript (ES6+), Typescript
 - Redux, Vuex
@@ -13,7 +13,7 @@ Tech Stack:
 - JAM Stack Deployment using Vercel & Netlify, Firebase Hosting
 - Figma (User Interface Design)
 
-Workflow:
+I have worked in the following workflows:
 - Progressive Web Application
 - Mobile/Desktop First
 - Responsive Design
