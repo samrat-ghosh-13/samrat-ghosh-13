@@ -10,8 +10,7 @@ I have worked with the following technologies:
 - Git, Github Actions
 - Jest, Cypress
 - HTML5 & CSS3 (Grid, Flexbox), Bootstrap 4, SCSS (SASS), Styled Components, Emotion
-- JAM Stack Deployment using Vercel & Netlify, Firebase Hosting
-- Figma (User Interface Design)
+- JAM Stack (Vercel & Netlify)
 
 I have worked in the following workflows:
 - Progressive Web Application
