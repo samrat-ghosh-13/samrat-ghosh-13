@@ -12,7 +12,7 @@ I have worked with the following technologies:
 - HTML5 & CSS3 (Grid, Flexbox), Bootstrap 4, SCSS (SASS), Styled Components, Emotion
 - JAM Stack (Vercel & Netlify)
 
-I have worked in the following workflows:
+I have worked with the following workflows:
 - Progressive Web Application
 - Mobile/Desktop First
 - Responsive Design
