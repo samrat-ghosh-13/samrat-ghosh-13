@@ -14,8 +14,7 @@ I have worked with the following technologies:
 
 I have worked with the following workflows:
 - Progressive Web Application
-- Mobile/Desktop First
-- Responsive Design
+- Mobile/Desktop first Responsive Design
 - Cross Browser Testing & Debugging
 - Cross-Functional Teams
 - Agile/Kanban Development
