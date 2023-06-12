@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Samrat. 
 
-I work as a Senior Consultant at Deloitte Digital. I love Web Application Development.
+I work as a Software Engineer at Maersk. I love Web Application Development.
 
 I have worked with the following technologies:
 - React, Next, Vue
