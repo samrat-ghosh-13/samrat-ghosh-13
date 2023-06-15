@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Samrat. 
 
-I work as a Software Engineer at Maersk. I love Web Application Development.
+I work as a Software Engineer at APM Terminals (a Subsidiary of Maersk). I love Web Application Development.
 
 I have worked with the following technologies:
 - React, Next, Vue
