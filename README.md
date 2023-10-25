@@ -1,22 +1,27 @@
-### Hi there 👋, I'm Samrat. 
 
-I work as a Software Engineer at Maersk Technology. I love Web Application Development.
+---
 
-I have worked with the following technologies:
-- React, Next, Vue
-- Typescript, JavaScript (ES6+)
-- Redux, Vuex/Pinia
-- Storybook for Design System (React, Vue)
-- Git, Github Actions
-- Jest, Cypress, MSW
-- HTML5, CSS3, SCSS, Styled Components, Emotion, Bootstrap 4
-- JAM Stack (Vercel, Netlify)
+### 👋 Hello, I'm Samrat!
 
-I have worked with the following workflows:
-- Progressive Web Application
-- Mobile/Desktop first Responsive Design
-- Cross Browser Testing & Debugging
-- Cross-Functional Teams
-- Agile/Kanban Development
+I'm a Software Engineer at Maersk Technology with a passion for Web Application Development. Here are some key aspects of my experience:
 
-LinkedIn - https://www.linkedin.com/in/samratat/
+#### Technologies:
+- **Front-End:** React, Next.js, Vue.js
+- **Languages:** TypeScript, JavaScript (ES6+)
+- **State Management:** Redux, Vuex, Pinia
+- **Design Systems:** Storybook (React, Vue)
+- **Version Control:** Git, GitHub Actions
+- **Testing:** Jest, Vitest, Cypress, MSW, Nock
+- **Web Technologies:** HTML5, CSS3, SCSS, Styled Components, Emotion, Bootstrap 4
+- **Deployment:** JAMstack (Vercel, Netlify)
+
+#### Workflows:
+- **PWA Development:** Progressive Web Applications
+- **Responsive Design:** Mobile and Desktop-First Approach
+- **Testing and Debugging:** Cross-Browser Compatibility
+- **Collaboration:** Cross-Functional Teams
+- **Development Methodologies:** Agile and Kanban
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/samratat/)
+
+---
