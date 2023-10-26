@@ -16,7 +16,7 @@ I'm a Software Engineer at Maersk Technology with a passion for Web Application 
 - **Deployment:** JAMstack (Vercel, Netlify)
 
 #### Workflows:
-- **PWA Development:** Progressive Web Applications
+- **PWA Development:** Progressive Web Applications using Vue and React
 - **Responsive Design:** Mobile and Desktop-First Approach
 - **Testing and Debugging:** Cross-Browser Compatibility
 - **Collaboration:** Cross-Functional Teams
