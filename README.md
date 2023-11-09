@@ -6,7 +6,7 @@
 I'm a Software Engineer at Maersk Technology with a passion for Web Application Development. Here are some key aspects of my experience:
 
 #### Technologies:
-- **Front-End:** React, Next.js, Vue.js, Node.js
+- **Front-End:** React, Next.js, Vue.js
 - **Back-End:** Node.js, Express
 - **Languages:** TypeScript, JavaScript (ES6+)
 - **State Management:** Redux, Vuex, Pinia,
