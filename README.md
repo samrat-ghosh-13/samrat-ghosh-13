@@ -22,7 +22,7 @@ I'm a Software Engineer at Maersk Technology specializing in Web Application Dev
 #### Previous Expertise:
 
 - State Management: Redux, Vuex, Pinia
-- Databases: MongoDB
+- Databases: MongoDB, postgres
 - Design Systems: Storybook (React, Vue)
 - Version Control: Git
 - Testing: Jest, Vitest, Cypress, MSW, Nock
