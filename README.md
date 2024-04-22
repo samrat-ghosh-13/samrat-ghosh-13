@@ -7,7 +7,7 @@ I'm a Software Engineer at Maersk Technology specializing in Web Application Dev
 
 #### Full Stack Focus:
 - 🌐 Frontend: React, Next.js, Vue.js
-- 🛠️ Backend: Node.js, Express
+- 🛠️ Backend: Node.js, Express, Spring & Spring Boot
 - 📚 Languages: TypeScript, JavaScript (ES6+)
 
 #### New Additions:
@@ -36,6 +36,7 @@ I'm a Software Engineer at Maersk Technology specializing in Web Application Dev
 - Testing and Debugging: Ensuring Cross-Browser Compatibility.
 - Collaboration: Thriving in Cross-Functional Teams.
 - Development Methodologies: Agile and Kanban
-- Let's connect on [LinkedIn](https://www.linkedin.com/in/samratat/) for further discussions and collaborations!
+
+> Let's connect on [LinkedIn](https://www.linkedin.com/in/samratat/) for further discussions and collaborations!
 
 ---
