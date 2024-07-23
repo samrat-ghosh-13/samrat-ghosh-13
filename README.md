@@ -1,42 +1,33 @@
+### 👋 Hi there, I'm Samrat Ghosh!
 
----
+As a passionate **Software Engineer** at **Maersk Technology**, I specialize in **Web Application Development**, with a keen focus on crafting seamless, scalable solutions. My journey in tech has equipped me with a diverse skill set, enabling me to navigate and excel across various software development domains.
 
-### 👋 Hello, I'm Samrat!
+#### 🚀 Core Specializations:
+- **Frontend Development**: Proficient in React, Next.js, and Vue.js, I create dynamic and responsive user interfaces.
+- **Backend Development**: Experienced with Node.js, Express, and the Spring ecosystem, I build robust backend services.
+- **Programming Languages**: Skilled in TypeScript and JavaScript (ES6+), with a growing expertise in Java.
 
-I'm a Software Engineer at Maersk Technology specializing in Web Application Development. Over the years, I've honed my skills across the stack to deliver comprehensive solutions. Here's a snapshot of my expertise:
+#### 🌟 Expanding Horizons in the Java & Spring Ecosystem:
+- **Java**: Dedicated to developing robust and scalable applications.
+- **Spring & Spring Boot**: Focused on enhancing development speed while ensuring application maintainability.
+- **Postgres**: Utilized for data storage and retrieval reliability.
+- **Kafka**: Used for real-time data processing and implementing event-driven architectures.
+- **Temporal**: Applied for orchestrating complex workflows and managing distributed systems efficiently.
 
-#### Full Stack Focus:
-- 🌐 Frontend: React, Next.js, Vue.js
-- 🛠️ Backend: Node.js, Express, Spring & Spring Boot
-- 📚 Languages: TypeScript, JavaScript (ES6+)
+#### 🛠️ Prior Experience:
+- **State Management**: Proficient with Redux, Vuex, and Pinia.
+- **Databases**: Experienced in MongoDB and Postgres.
+- **Design Systems**: Skilled in using Storybook for React and Vue.
+- **Version Control**: Adept in Git.
+- **Testing Frameworks**: Knowledgeable in Jest, Vitest, Cypress, MSW, and Nock.
+- **Web Fundamentals**: Well-versed in HTML5, CSS3, SCSS, Styled Components, Emotion, and Bootstrap 4.
+- **Deployment**: Experienced with GitHub Actions, Docker, and JAMstack deployments (Vercel, Netlify).
 
-#### New Additions:
-🚀 Java & Spring Ecosystem:
+#### 💼 Effective Workflows:
+- **PWA Development**: Specializing in creating Progressive Web Applications with Vue and React.
+- **Responsive Design**: Implementing mobile and desktop-first designs.
+- **Testing and Debugging**: Ensuring applications are cross-browser compatible.
+- **Team Collaboration**: Excelling in cross-functional team environments.
+- **Development Methodologies**: Practicing Agile and Kanban.
 
-- Java: Crafting robust, scalable applications.
-- Spring & Spring Boot: Accelerating development and ensuring maintainability.
-- Postgres: Leveraging for reliable data storage and retrieval.
-- Kafka: Implementing event-driven architecture and real-time data processing.
-- Temporal: Orchestrating workflows and managing distributed systems.
-
-#### Previous Expertise:
-
-- State Management: Redux, Vuex, Pinia
-- Databases: MongoDB, postgres
-- Design Systems: Storybook (React, Vue)
-- Version Control: Git
-- Testing: Jest, Vitest, Cypress, MSW, Nock
-- Web Technologies: HTML5, CSS3, SCSS, Styled Components, Emotion, Bootstrap 4
-- Deployment: GitHub Actions to Akamai Netstorage, Docker Image Deployments, JAMstack (Vercel, Netlify)
-
-#### Workflows:
-
-- PWA Development: Crafting Progressive Web Applications using Vue and React.
-- Responsive Design: Embracing a Mobile and Desktop-First Approach.
-- Testing and Debugging: Ensuring Cross-Browser Compatibility.
-- Collaboration: Thriving in Cross-Functional Teams.
-- Development Methodologies: Agile and Kanban
-
-> Let's connect on [LinkedIn](https://www.linkedin.com/in/samratat/) for further discussions and collaborations!
-
----
+> Interested in collaborating or learning more about my work? Let's connect on [LinkedIn](https://www.linkedin.com/in/samratat/)!
