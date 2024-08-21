@@ -29,4 +29,4 @@ I'm a Software Engineer at Maersk Technology passionate about Web Application De
 - Testing & Debugging: Cross-browser compatibility
 - Team Collaboration: Thriving in Agile/Kanban environments
 
-Feel free to connect with me on (LinkedIn)[https://www.linkedin.com/in/samratat/]! Let's collaborate!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samratat/)! Let's collaborate!
