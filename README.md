@@ -1,4 +1,4 @@
-👋 **Hi, I'm Samrat Ghosh!**
+👋 **Hiya, I'm Samrat!**
 
 I'm a Software Engineer at Maersk Technology passionate about Web Application Development. I love building scalable, seamless solutions using a diverse tech stack.
 
