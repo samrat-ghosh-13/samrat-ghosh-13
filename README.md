@@ -5,7 +5,7 @@ I'm a Software Engineer at Maersk Technology passionate about Web Application De
 ### 🚀 What I Do Best:
 - Frontend: React, Next.js, Vue.js
 - Backend: Node.js, Express, Spring Boot
-- Languages: TypeScript, JavaScript (ES6+), Java
+- Languages: TypeScript, JavaScript (ES6+), Java 8+
 
 ### 🌱 Exploring More in:
 - Java & Spring: Focused on building robust, maintainable applications.
