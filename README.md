@@ -3,14 +3,20 @@
 I'm a Software Engineer at Maersk Technology passionate about Web Application Development. I love building scalable, seamless solutions using a diverse tech stack.
 
 ### 🚀 What I Do Best:
-- Frontend: React, Next.js, Vue.js
-- Backend: Node.js, Express, Spring Boot
-- Languages: TypeScript, JavaScript (ES6+), Java 8+
+- Frontend:
+  - React
+  - Next.js
+  - Vue.js
+- Backend:
+  - Node.js, Express
+  - Spring/Spring Boot
+- Postgres: Reliable data storage & retrieval
+- Languages:
+  - TypeScript/JavaScript (ES6+)
+  - Java 8+
+- Kafka: Real-time data processing & event-driven systems.
 
 ### 🌱 Exploring More in:
-- Java & Spring: Focused on building robust, maintainable applications.
-- Postgres: Reliable data storage & retrieval.
-- Kafka: Real-time data processing & event-driven systems.
 - Temporal: Managing complex workflows & distributed systems.
 
 ### 🛠️ Prior Experience:
