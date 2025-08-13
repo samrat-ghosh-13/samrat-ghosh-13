@@ -1,38 +1,49 @@
-👋 **Hey, I'm Samrat!**
+# 👋 **Hey, I'm Samrat!**
 
-I'm a Software Engineer at Maersk Technology passionate about Web Application Development. I love building scalable, seamless solutions using a diverse tech stack.
+**Software Engineer III at Maersk Technology** • Building user experiences with modern web technologies • [samratghosh.cv](https://samratghosh.cv)
 
-### 🚀 What I Do Best:
-- Frontend:
-  - React
-  - Next.js
-  - Vue.js
-- Backend:
-  - Node.js, Express
-  - Spring/Spring Boot
-- Postgres: Reliable data storage & retrieval
-- Languages:
-  - TypeScript/JavaScript (ES6+)
-  - Java 8+
-- Kafka: Real-time data processing & event-driven systems.
+## 🎨 **Frontend-First, Full-Stack Enabled**
 
-### 🌱 Exploring More in:
-- Temporal: Managing complex workflows & distributed systems.
+I'm a **frontend engineer** who loves crafting pixel-perfect, performant user interfaces. My full-stack knowledge empowers me to build complete solutions and collaborate seamlessly with backend teams.
 
-### 🛠️ Prior Experience:
-- State Management: Redux, Vuex, Pinia
-- Databases: MongoDB, Postgres
-- Design Systems: Storybook (React & Vue)
-- Version Control: Git
-- Testing: Jest, Vitest, Cypress, MSW, Nock
-- Web Basics: HTML5, CSS3, SCSS, Styled Components, Bootstrap
-- Deployment: GitHub Actions, Docker, Vercel, Netlify
+**🚀 Frontend Expertise:**
+- **Modern Frameworks:** React, Next.js, Vue.js + TypeScript
+- **State Management:** Redux, Vuex, Pinia
+- **Styling & Design:** SCSS, Styled Components, Responsive Design
+- **Performance:** PWAs, Mobile-first optimisation, Cross-browser compatibility
 
-### 💡 How I Work:
-- Full Stack Development: Building End-to-End Web Apps with Spring boot and Vue / React
-- PWA Development: Building Progressive Web Apps with Vue & React
-- Responsive Design: Mobile & desktop-first layouts
-- Testing & Debugging: Cross-browser compatibility
-- Team Collaboration: Thriving in Agile/Kanban environments
+**🔧 Full-Stack Capabilities (Frontend-Enabling):**
+- **Backend Understanding:** Node.js/Express, Spring Boot, Java 8+
+- **Database Integration:** PostgreSQL, MongoDB for frontend data needs
+- **Real-time Features:** Kafka event handling for dynamic UIs
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samratat/)! Let's collaborate!
+## 🌱 **Currently Exploring**
+**Temporal** - Learning workflow orchestration to build better async frontend experiences
+
+## 🛠️ **Frontend Development Toolkit**
+
+**Build & Development:**
+- **Component Libraries:** Storybook for React & Vue
+- **Testing:** Jest, Vitest, Cypress, MSW for comprehensive frontend testing
+- **Bundling:** Modern build tools and optimisation strategies
+
+**Design & UX:**
+- **Responsive Design:** Mobile-first, adaptive layouts
+- **Accessibility:** WCAG compliance and inclusive design
+- **Performance:** Core Web Vitals optimisation, lazy loading
+
+**Deployment & CI:**
+- **Frontend Deployment:** Akamai, Cloudflare Workers & Pages, Vercel, Netlify
+- **DevOps:** GitHub Actions, Docker for containerised frontend builds
+
+## 💡 **How I Deliver Value**
+
+✨ **User-Centric Development** - Translating designs into intuitive, accessible interfaces  
+⚡ **Performance Obsessed** - Optimising bundle size, load times, and user experience  
+🧪 **Quality-First** - Comprehensive testing from unit to E2E  
+🤝 **Full-Stack Mindset** - Understanding the entire application flow to build better frontends  
+🔄 **API-Friendly** - Designing frontend architectures that work seamlessly with any backend
+
+---
+
+**Love creating amazing frontend experiences?** Let's connect on [LinkedIn](https://www.linkedin.com/in/samratat/)! 
