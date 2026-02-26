@@ -48,9 +48,8 @@ What sets me apart: I spent 5 years as a **frontend engineer** (React, Vue, Next
 
 ### 📈 GitHub Insights
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samrat-ghosh-13&show_icons=true&theme=transparent&hide_border=true" alt="Samrat's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat-ghosh-13&layout=compact&theme=transparent&hide_border=true" alt="Samrat's Top Languages" height="150" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrat-ghosh-13&theme=transparent&hide_border=true" alt="Samrat's GitHub Streak" />
 </p>
 
 ---
