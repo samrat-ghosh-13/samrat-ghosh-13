@@ -1,49 +1,60 @@
-# 👋 **Hey, I'm Samrat!**
+# 👋 Hey, I'm Samrat
 
-**Software Engineer III at Maersk Technology** • Building user experiences with modern web technologies • [samratghosh.cv](https://samratghosh.cv)
+**Software Engineer III @ Maersk Technology**
 
-## 🎨 **Frontend-First, Full-Stack Enabled**
-
-I'm a **frontend engineer** who loves crafting pixel-perfect, performant user interfaces. My full-stack knowledge empowers me to build complete solutions and collaborate seamlessly with backend teams.
-
-**🚀 Frontend Expertise:**
-- **Modern Frameworks:** React, Next.js, Vue.js + TypeScript
-- **State Management:** Redux, Vuex, Pinia
-- **Styling & Design:** SCSS, Styled Components, Responsive Design
-- **Performance:** PWAs, Mobile-first optimisation, Cross-browser compatibility
-
-**🔧 Full-Stack Capabilities (Frontend-Enabling):**
-- **Backend Understanding:** Node.js/Express, Spring Boot, Java 8+
-- **Database Integration:** PostgreSQL, MongoDB for frontend data needs
-- **Real-time Features:** Kafka event handling for dynamic UIs
-
-## 🌱 **Currently Exploring**
-**Temporal** - Learning workflow orchestration to build better async frontend experiences
-
-## 🛠️ **Frontend Development Toolkit**
-
-**Build & Development:**
-- **Component Libraries:** Storybook for React & Vue
-- **Testing:** Jest, Vitest, Cypress, MSW for comprehensive frontend testing
-- **Bundling:** Modern build tools and optimisation strategies
-
-**Design & UX:**
-- **Responsive Design:** Mobile-first, adaptive layouts
-- **Accessibility:** WCAG compliance and inclusive design
-- **Performance:** Core Web Vitals optimisation, lazy loading
-
-**Deployment & CI:**
-- **Frontend Deployment:** Akamai, Cloudflare Workers & Pages, Vercel, Netlify
-- **DevOps:** GitHub Actions, Docker for containerised frontend builds
-
-## 💡 **How I Deliver Value**
-
-✨ **User-Centric Development** - Translating designs into intuitive, accessible interfaces  
-⚡ **Performance Obsessed** - Optimising bundle size, load times, and user experience  
-🧪 **Quality-First** - Comprehensive testing from unit to E2E  
-🤝 **Full-Stack Mindset** - Understanding the entire application flow to build better frontends  
-🔄 **API-Friendly** - Designing frontend architectures that work seamlessly with any backend
+*8.5+ years building scalable distributed systems — from pixel-perfect UIs to high-throughput backend services.*
 
 ---
 
-**Love creating amazing frontend experiences?** Let's connect on [LinkedIn](https://www.linkedin.com/in/samratat/)! 
+## 🚀 Full-Stack Engineer
+
+I currently specialise in **backend engineering and distributed systems**, designing services that power analytics at scale across **APMT** (APM Terminals). My systems handle real-world, high-volume workloads in production.
+
+What sets me apart: I spent 5 years as a **frontend engineer** (React, Vue, Next.js, Node.js/BFF) before transitioning fully to the backend. That end-to-end perspective means I can own a feature from Kafka topic to the final rendered component — and I understand the tradeoffs at every layer.
+
+---
+
+### 🛠️ Technical Ecosystem
+
+#### **Backend & Messaging**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,kafka,docker,kubernetes" alt="Java, Spring Boot, Node.js, Express, Kafka, Docker, Kubernetes" />
+</p>
+
+#### **Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js" alt="React, Next.js, Vue, TypeScript, JavaScript" />
+</p>
+
+#### **Data, Infrastructure & Tooling**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,githubactions,linux" alt="PostgreSQL, MongoDB, GitHub Actions, Linux" />
+</p>
+
+---
+
+### 💡 How I Deliver Value
+
+* **🏗️ System Design** – Designed and shipped distributed systems in production use at APMT Analytics, handling enterprise-scale data pipelines.
+* **🔄 Event-Driven Architecture** – Building Kafka-based, event-driven services for real-time data processing across Maersk's logistics platform.
+* **🌐 End-to-End Ownership** – Comfortable owning the full slice: API design, service orchestration, and the frontend that consumes it.
+* **⚡ Performance Engineering** – Optimised both backend API latency (JVM tuning, query optimisation) and frontend Core Web Vitals from previous roles.
+* **🧪 Quality-First** – Rigorous testing culture across unit, integration, and contract tests (JUnit, Mockito, Jest, Cypress).
+
+---
+
+### 📈 GitHub Insights
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=samrat-ghosh-13&show_icons=true&theme=transparent&hide_border=true" alt="Samrat's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat-ghosh-13&layout=compact&theme=transparent&hide_border=true" alt="Samrat's Top Languages" height="150" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+🌐 [samratghosh.cv](https://samratghosh.cv) | 💼 [LinkedIn](https://www.linkedin.com/in/samratat/) | 📍 Dunstable, UK
