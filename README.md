@@ -17,21 +17,18 @@ What sets me apart: I spent 5 years as a **frontend engineer** (React, Vue, Next
 ### 🛠️ Technical Ecosystem
 
 #### **Backend & Messaging**
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,kafka,docker,kubernetes" alt="Java, Spring Boot, Node.js, Express, Kafka, Docker, Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=java,spring,gradle,nodejs,express,kafka,docker,kubernetes" alt="Java, Spring Boot, Gradle, Node.js, Express, Kafka, Docker, Kubernetes" />
 </p>
 
 #### **Frontend**
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js" alt="React, Next.js, Vue, TypeScript, JavaScript" />
 </p>
 
 #### **Data, Infrastructure & Tooling**
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,githubactions,linux" alt="PostgreSQL, MongoDB, GitHub Actions, Linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,azure,githubactions,postman,sonarqube,linux" alt="PostgreSQL, MongoDB, Azure, GitHub Actions, Postman, Linux" />
 </p>
 
 ---
